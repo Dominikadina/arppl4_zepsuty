@@ -1,0 +1,8 @@
+.NaglowekStrony {
+  background-color: grey;
+}
+
+.Logos {
+  display: flex;
+  flex-direction: row;
+}
